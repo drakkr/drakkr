@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -199,8 +199,8 @@
      id="g9010"
      transform="translate(-312,295.1622)"
      inkscape:export-filename="/home/raph/Documents/Methodes/Drakkr/Images/drakkr-logo.png"
-     inkscape:export-xdpi="56.6049"
-     inkscape:export-ydpi="56.6049">
+     inkscape:export-xdpi="99.960709"
+     inkscape:export-ydpi="99.960709">
     <path
        inkscape:connector-curvature="0"
        id="path8618"

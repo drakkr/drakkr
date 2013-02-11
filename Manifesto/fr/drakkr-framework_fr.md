@@ -4,7 +4,7 @@ Drakkr est donc une boite à outils conçue pour aider les organisations à mett
 
 Drakkr traite les différents processus devant être intégrés dans une gouvernance open source au sein de projets dédiés. Le tout constitue un framework complet et cohérent.
 
-![Framework Drakkr](Images/drakkr-schema.png)
+![Framework Drakkr](Images/drakkr-schema_fr.png)
 
 Les projets composant le framework Drakkr sont les suivants :
 

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="drakkr-schema_en.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.09"
+     inkscape:cx="184.8"
+     inkscape:cy="636.0366"
+     inkscape:window-x="-3"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9020" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4041">
+      <stop
+         id="stop4042"
+         offset="0.0000000"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop4044"
+         offset="0.63748199"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop4043"
+         offset="1.0000000"
+         style="stop-color:#000000;stop-opacity:1.0000000;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4041-5">
+      <stop
+         id="stop4042-5"
+         offset="0.0000000"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop4044-4"
+         offset="0.63748199"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop4043-6"
+         offset="1.0000000"
+         style="stop-color:#000000;stop-opacity:1.0000000;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2553-4">
+      <stop
+         style="stop-color:#108910;stop-opacity:1.0000000;"
+         offset="0.00000000"
+         id="stop2555-27" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2557-7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4041-8">
+      <stop
+         id="stop4042-51"
+         offset="0.0000000"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop4044-8"
+         offset="0.63748199"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop4043-3"
+         offset="1.0000000"
+         style="stop-color:#000000;stop-opacity:1.0000000;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient2565-01"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient2563-1"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient2561-2"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient2559-9"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient7079"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient7081"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient7083"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2553-4"
+       id="radialGradient7085"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,3.385709,0,-757.4358)"
+       cx="308.68488"
+       cy="317.48871"
+       fx="308.68488"
+       fy="317.48871"
+       r="1.779955" />
+  </defs>
+  <g
+     id="g9020"
+     inkscape:export-filename="/home/raph/Documents/Methodes/Drakkr/Images/drakkr-orga.png"
+     inkscape:export-xdpi="150.13033"
+     inkscape:export-ydpi="150.13033"
+     transform="matrix(0.75496904,0,0,0.75496904,38.550249,50.115439)">
+    <g
+       id="g3034"
+       inkscape:export-filename="/home/raph/Drakkr/Drakkr/Manifesto/en/Images/drakkr-schema_en.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="174.40527"
+         y="158.74843"
+         id="text7522-0"
+         sodipodi:linespacing="40.000001%"><tspan
+           sodipodi:role="line"
+           id="tspan7524-9"
+           x="174.40527"
+           y="158.74843"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Coherence</tspan><tspan
+           sodipodi:role="line"
+           x="177.17871"
+           y="170.36499"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8352"> </tspan><tspan
+           sodipodi:role="line"
+           x="174.40527"
+           y="191.74843"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8435">OSC</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#3b76d2;fill-opacity:0.88235294;fill-rule:evenodd;stroke:none"
+         id="path2435"
+         d="m 213.45911,172.01209 64.98394,-39.99999 c 0,0 64.98394,39.99999 64.98394,39.99999 l -25.99358,80 -77.98072,0 -25.99358,-80 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="278.43817"
+         y="184.86853"
+         id="text7522"
+         sodipodi:linespacing="40.000001%"><tspan
+           sodipodi:role="line"
+           id="tspan7524"
+           x="278.43817"
+           y="184.86853"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Surveillance</tspan><tspan
+           sodipodi:role="line"
+           x="281.21161"
+           y="196.48509"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8344"> </tspan><tspan
+           sodipodi:role="line"
+           x="278.43817"
+           y="217.86853"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8486">QSOS</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#4dd300;fill-opacity:0.93333333;fill-rule:evenodd;stroke:none"
+         id="path2433"
+         d="m 109.48481,252.0121 64.98394,-40 c 0,0 64.98394,40 64.98394,40 l -25.99358,80 -77.98072,0 -25.99358,-80 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="174.24902"
+         y="266.74844"
+         id="text7522-9"
+         sodipodi:linespacing="40.000001%"><tspan
+           sodipodi:role="line"
+           id="tspan7524-3"
+           x="174.24902"
+           y="266.74844"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Security</tspan><tspan
+           sodipodi:role="line"
+           x="177.02246"
+           y="278.36499"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8348"> </tspan><tspan
+           sodipodi:role="line"
+           x="174.24902"
+           y="299.74844"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8490">SecureIT</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#d02c00;fill-opacity:0.95686275;fill-rule:evenodd;stroke:none"
+         id="path2431"
+         d="m 5.51051,172.0121 64.983939,-40 c 0,0 64.983941,40 64.983941,40 l -25.99358,80 -77.980721,0 -25.993579,-80 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="70.240547"
+         y="186.66052"
+         id="text7522-6"
+         sodipodi:linespacing="40.000001%"><tspan
+           sodipodi:role="line"
+           id="tspan7524-38"
+           x="70.240547"
+           y="186.66052"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Saving</tspan><tspan
+           sodipodi:role="line"
+           x="73.013985"
+           y="198.27708"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8350"> </tspan><tspan
+           sodipodi:role="line"
+           x="70.240547"
+           y="219.66052"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8488">ECOS</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#03036c;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path2429"
+         d="m 174.46875,52.0121 64.98394,-39.999997 c 0,0 64.98394,39.999997 64.98394,39.999997 l -25.99358,80 -77.98072,0 -25.99358,-80 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="239.38922"
+         y="66.748428"
+         id="text7522-8"
+         sodipodi:linespacing="40.000001%"><tspan
+           sodipodi:role="line"
+           id="tspan7524-7"
+           x="239.38922"
+           y="66.748428"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Complexity</tspan><tspan
+           sodipodi:role="line"
+           x="242.16266"
+           y="78.36499"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8342"> </tspan><tspan
+           sodipodi:role="line"
+           x="239.38922"
+           y="99.748428"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8484">FLOSC</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#f77115;fill-opacity:0.93333333;fill-rule:evenodd;stroke:none"
+         id="path2427"
+         d="m 44.50087,52.0121 64.98394,-39.999996 c 0,0 64.98394,39.999996 64.98394,39.999996 l -25.99358,80 -77.980721,0 -25.993579,-80 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="109.2309"
+         y="66.660538"
+         id="text7522-6-9"
+         sodipodi:linespacing="40.000001%"><tspan
+           sodipodi:role="line"
+           id="tspan7524-38-6"
+           x="109.2309"
+           y="66.660538"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans Bold">Licenses</tspan><tspan
+           sodipodi:role="line"
+           x="112.00434"
+           y="78.2771"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:40.0000006%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8350-6"> </tspan><tspan
+           sodipodi:role="line"
+           x="109.2309"
+           y="99.660538"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Liberation Sans;-inkscape-font-specification:Liberation Sans"
+           id="tspan8482">SLIC</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -5,9 +5,9 @@ The OS considered here is Debian. What else?
 ## Prerequisites
 
 Enable some Apache2 modules:
-* a2enmod rewrite
-* a2enmod proxy
-* a2enmod proxy_http
+* `a2enmod rewrite`
+* `a2enmod proxy`
+* `a2enmod proxy_http`
 
 ## Install Gitit
 
@@ -24,7 +24,7 @@ Check Gitit official documentation <https://github.com/jgm/gitit> if needed.
 
 ## Configure Apache
 
-Overwrite the `/etc/apache2/site-available/default` configution:
+Overwrite the `/etc/apache2/site-available/default` configuration:
 
     <VirtualHost *:80>
 	ServerName http://edoc.drakkr.org

@@ -9,14 +9,19 @@ Enable some Apache2 modules:
 * `a2enmod proxy`
 * `a2enmod proxy_http`
 
+Install LaTeX support: `apt-get install texlive-latex-extra`
+
 ## Install Gitit
 
 * `apt-get install gitit`
+* `apt-get install pandoc`
 * `mkdir /opt/gitit`
 * `cd /opt/gitit`
 * `gitit --print-default-config > my.conf`: initialize Gitit configuration file
 
 ## Configure Gitit
+
+Modify the default Gitit logo by overriding the `/opt/gitit/static/img/logo.png` file (138x155 pixels).
 
 TODO
 
